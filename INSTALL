@@ -1,0 +1,58 @@
+
+
+* Installation
+
+1. Preconditions
+
+In order to use the unit tests, the environment variable BOOST_ROOT
+has to be defined.
+
+On my system boost is installed in /usr/local (the header fiels are in
+/usr/local/include/boost; the libs are in /usr/local/lib) and
+BOOST_ROOT is defined (in my bash profile) by
+
+  export BOOST_ROOT=/usr/local
+
+
+2. Building
+
+Change into the base dir of the directory tree and type `make' to
+build the executable.
+
+  cd <some-path>/fgfem
+  make
+
+
+3. Examples
+
+Run the examples with:
+
+  make examples
+
+They can be run one by one with:
+
+  make example-2-1
+  make example-2-2
+  make example-2-3 
+  make example-2-4
+
+
+4. Unit tests
+
+The unit tests can be run with:
+
+  make test
+
+
+5. Clean up
+
+You can remove the program binaries and object files by typing:
+
+  make clean
+
+To also remove the binaries type:
+
+  make cleanall
+
+
+fin.

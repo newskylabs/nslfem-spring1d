@@ -1,0 +1,20 @@
+/**
+  Dietrich Bollmann, Kamakura, 2015/01/01
+
+  Example 2.4, page 54.
+  "A First Course in the Finite element Method, third edition"
+  by Daryl L. Logan
+*/
+
+// Nodes:
+// node <tag> (d <displacement>)? (f <force>)?
+
+node 1  d 0
+node 2       f 1000
+
+// Spring elements:
+// spring <tag>  <node 1> <node 2>  <spring constant>
+
+spring 1  1 2  500
+
+// fin
