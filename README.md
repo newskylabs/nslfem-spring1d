@@ -4,10 +4,9 @@
 *[nslfem-spring1d]* is a simple C++ implementation of the [Finite
 Element Method] &#40;[FEM]&#41; applied to simple one-dimensional
 assemblages of linear spring elements as described in the second
-chapter *Introduction to the Stiffness (Displacement) Method* of the
-book *[A First Course in the Finite Element Method, Third
-Edition](https://openlibrary.org/books/OL6796268M/A_first_course_in_the_finite_element_method)*
-by [Darul L. Logan].
+chapter *"Introduction to the Stiffness (Displacement) Method"* of the
+book *"[A First Course in the Finite Element Method, Third
+Edition]"* by [Darul L. Logan].
 
 
 ## Installation
