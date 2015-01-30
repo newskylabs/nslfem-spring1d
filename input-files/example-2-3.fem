@@ -21,4 +21,4 @@ spring 1  1 2  1   // Spring constant:  k1 = 1
 spring 2  2 3  2   // Spring constant:  k2 = 2
 spring 3  2 4  3   // Spring constant:  k3 = 3
 
-// fin
+// fin.
