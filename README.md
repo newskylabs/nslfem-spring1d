@@ -374,7 +374,8 @@ If you have any comments, [please drop me a message]!
 
 
 [nslfem-spring1d]:https://github.com/newskylabs/nslfem-spring1d
-[Finite Element Method (FEM)]:http://en.wikipedia.org/wiki/Finite_element_method
+[Finite Element Method]:http://en.wikipedia.org/wiki/Finite_element_method
+[FEM]:http://en.wikipedia.org/wiki/Finite_element_method
 [A First Course in the Finite Element Method, Third Edition]:http://openlibrary.org/books/OL6796268M/A_first_course_in_the_finite_element_method
 [Darul L. Logan]:http://www.uwplatt.edu/mechanical-engineering/dr-daryl-logan-pe
 [boost unit test framework]:http://www.boost.org/doc/libs/1_57_0/libs/test/doc/html/utf.html
